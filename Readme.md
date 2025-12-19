@@ -30,7 +30,7 @@ A modern, interactive Tic-Tac-Toe game with stunning neon visuals and advanced f
 
 🚀 Quick Start
 Option 1: Live Demo
-Visit the live demo: 
+Visit the live demo: https://karankrtech-08.github.io/-Neon-Tic-Tac-Toe/ 
 
 Option 2: Local Installation
 Clone the repository:
@@ -211,4 +211,5 @@ Made with ❤️ by karan kumar
 
 ⭐ Star this repo if you like it!
 </div>
+
 Enjoy playing! 🎮✨
